@@ -16,3 +16,22 @@ cd ..
 cd ./dos
 cp ~/Desktop/DAW/Sistemas/Linux/simExamen/examen/uno nombre.txt ~/Desktop/DAW/Sistemas/Linux/simExamen/examen/tres
 git checkout 
+
+····después de conflicto····
+1.
+cd ..
+cd ./simExamen
+git checkout -b segunda
+cd ./examen
+mkdir dosUna
+2.
+cd ./dosUna
+touch edad.txt ~/Desktop/DAW/Sistemas/Linux/simExamen
+mv edad.txt ~/Desktop/DAW/Sistemas/Linux/simExamen/examen/
+3.
+mv ~/Desktop/DAW/Sistemas/Linux/simExamen/examen/edad.txt ~/Desktop/DAW/Sistemas/Linux/simExamen/examen/dosUna/edad2.txt
+4. 
+cd ..
+cd ..
+rm -r ./examen
+5.
