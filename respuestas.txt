@@ -1,0 +1,6 @@
+Comandos Usados
+---------------
+1.cd 
+1.ls -l 
+2.mkdir
+3.touch
