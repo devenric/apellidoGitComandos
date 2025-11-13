@@ -1,6 +1,11 @@
 Comandos Usados
 ---------------
-1.cd 
-1.ls -l 
-2.mkdir
-3.touch
+
+1.
+mkdir simexamen
+cd ./simexamen
+3.touch README.md
+4.
+mkdir ./examen uno dos tres
+mv uno dos tres ./examen
+5. 
