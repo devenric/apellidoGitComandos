@@ -9,3 +9,13 @@ cd ./simexamen
 mkdir ./examen uno dos tres
 mv uno dos tres ./examen
 5. 
+cd ./examen/
+touch nombre.txt
+6.
+cd ..
+cd ./dos
+cp ~/Desktop/DAW/Sistemas/Linux/simExamen/examen/uno nombre.txt ~/Desktop/DAW/Sistemas/Linux/simExamen/examen/tres
+git checkout 
+7. 
+git checkout master 
+git merge primeras
